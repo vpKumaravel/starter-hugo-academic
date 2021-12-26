@@ -73,6 +73,5 @@ highlight_name: true
 
 Velu Prabhakar Kumaravel is a PhD Student in Cognitive and Brain Sciences at the Center for Mind/Brain Sciences, Italy. His main research interests include bio signal processing (EEG, EMG, EDA) applying Machine Learning (ML) and traditional techniques for signal denoising and feature extraction. He particularly works in infants/newborns EEG and mobile EEG. During his free time, he regularly practices meditation (of different kinds) and he is passionate about understanding the nature of Consciousness in scientific terms.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
