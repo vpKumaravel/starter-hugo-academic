@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Towards a Domain-specfic Approach for EEG Bad Channel Detection
+title: Towards a Domain-specfic Neural Network Approach for EEG Bad Channel Detection
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-26T15:55:21.013732Z'
+publishDate: '2021-12-26T16:18:51.107955Z'
 publication_types:
 - '0'
 abstract: ''
