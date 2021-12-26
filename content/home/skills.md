@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- icon: "Alecive-Flatwoken-Apps-Matlab"
+  icon_pack: "custom"
+  name: "MATLAB"
+  description: "90%"
 - description: 90%
   icon: r-project
   icon_pack: fab
@@ -39,8 +43,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
+#- icon: "Alecive-Flatwoken-Apps-Matlab"
 #  icon_pack: "custom"
-#  name: "Surfing"
+#  name: "MATLAB"
 #  description: "90%"
 ---
